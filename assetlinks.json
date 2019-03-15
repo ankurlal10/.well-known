@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.ankurlal.app.deeplinks",
+    "package_name": "ankurlal.deeplink",
     "sha256_cert_fingerprints":
-    ["C8:A2:E9:BC:CF:59:7C:2F:B6:DC:66:BE:E2:93:FC:13:F2:FC:47:EC:77:BC:6B:2B:0D:52:C1:1F:51:19:2A:B8"]
+    ["FE:1B:F8:DB:31:42:26:96:83:D7:3C:FC:6B:9E:30:F3:2D:B3:E4:E3:94:83:6A:17:FF:B0:98:85:77:D7:BF:71"]
   }
 }]
